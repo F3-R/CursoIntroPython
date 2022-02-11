@@ -1,0 +1,7 @@
+print("Calculadora")
+first_number = input("Primer número: ")
+second_number = input("Segundo número: ")
+print("Número concatenado: ")
+print(first_number + second_number)
+print("Número sumado: ")
+print(int(first_number) + int(second_number))
